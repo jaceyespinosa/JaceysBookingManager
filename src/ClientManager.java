@@ -1,3 +1,24 @@
+/***************************************************************
+ * Name : JaceysClientManager
+ * Author: Jacey Espinosa
+ * Created : 05/04/2023
+ * Course: CIS 152 - Data Structure
+ * Version: 1.0
+ * OS: Windows 10
+ * IDE: Eclipse 2022-03 (4.23.0)
+ * Copyright : This is my own original work
+ * based on specifications issued by our instructor
+ * Description : An app that constructs two DFS/BFS methods.
+ *
+ Input: Final project data
+ *
+ Output: Jaceys Client Manager
+ * Academic Honesty: I attest that this is my original work.
+ * I have not used unauthorized source code, either modified or
+ * unmodified. I have not given other fellow student(s) access
+ * to my program.
+ ***************************************************************
+ */
 import java.time.LocalDate;
 import java.util.HashMap;
 import java.util.Map;
